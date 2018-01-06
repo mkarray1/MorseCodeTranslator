@@ -1,1 +1,2 @@
 # MorseCodeTranslator
+By  manipulating current on embedded systems, my partner and I were able to succesfully emulate morse code. On a two system setup, the first user would send a string of text. This text is then flashed onto an LED in morse code at a very fast speed, the second system has a photo-resistor which detects this change in light and reverts these changes in current back into english. By doing this we were able to wirelessly communicate in a very unique way.
